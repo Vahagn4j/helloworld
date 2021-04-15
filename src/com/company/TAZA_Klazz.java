@@ -9,7 +9,7 @@ public class TAZA_Klazz {
         this.x = x;
         this.y = y;
     }
-
+//
     public String getX() {
         return x;
     }
